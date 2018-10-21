@@ -1,5 +1,5 @@
 _repo: Mots-Rouge-Espoir-Poesie_4569
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -23,5 +23,6 @@ rights_url: ''
 subjects:
 - !lcc 'PQ'
 - !lcsh 'Poetry'
+- GITenberg
 title: 'Mots Rouge Espoir: Poésie'
 url: http://www.gutenberg.org/ebooks/4569
